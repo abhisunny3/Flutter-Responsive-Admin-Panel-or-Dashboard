@@ -1,4 +1,4 @@
-# admin_panel_dashboard
+# Responsive Admin Panel or Dashboard - Flutter UI
 
 A new Flutter project.
 
